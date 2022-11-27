@@ -10,6 +10,10 @@
 
 ## 肱二头肌训练
 
+Reference:
+
+<https://www.youtube.com/watch?v=p-yFtpCPecs>
+
 肱二头肌位置，
 ![肱二头肌位置](images/gong-er-tou-ji.png)
 

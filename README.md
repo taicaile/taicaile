@@ -1,8 +1,8 @@
 # Hi there 👋
 
-I'm currently working on point cloud library project.
+I'm currently working on automatic parking platform.
 
-I'm currently learning C++, Matlab/Simulink.
+I'm currently learning C/C++, Python, Linux.
 
 <!--
 **taicaile/taicaile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

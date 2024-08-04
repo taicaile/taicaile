@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm currently working on automatic parking platform.
+I'm currently working on automatic parking system.
 
 I'm currently learning C/C++, Python, Linux.
 
